@@ -5,6 +5,8 @@
  */
 package javaapplication9;
 
+import java.io.PrintStream;
+
 /**
  *
  * @author YahYa
@@ -15,7 +17,8 @@ public class JavaApplication9 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hi , how are you?");
+        System.out.println(" how are you?");
+       System.out.println("hheloow");
     }
     
 }
